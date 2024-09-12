@@ -2,6 +2,9 @@ Battery Man Game
 ====================
 Moved project to GitLab:
 https://gitlab.com/mjaglarz/batteryman
+
+Link to download the game: https://drive.google.com/file/d/1S3YDv_fcT2JyN2J07QVjbyA9IBU-wTeT/view?usp=sharing
+
 # Third Person game in C++ made with Unreal Engine v5.0.1
 
 Project based on C++ Battery Collector | v4.9 Tutorial Series from Unreal Engine channel on YouTube. Added UMG widgets for Main Menu and End Match, batteries counter and sounds.
